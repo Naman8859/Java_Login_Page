@@ -5,10 +5,6 @@
   <em>BCA 2nd Year Student | Aspiring Robotics Enthusiast | Java & MySQL Developer</em>
 </p>
 
-<p align="center">
-  <img src="![image1](image1)" alt="Naman Singh Chauhan" width="180" style="border-radius:50%;">
-</p>
-
 ---
 
 ### 🌟 About Me
